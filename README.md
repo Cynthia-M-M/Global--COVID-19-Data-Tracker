@@ -59,13 +59,3 @@ Seasonality: Clear seasonal spikes identified in specific hemispheres.
 
 📄 License
 This project is open-source and available for educational purposes.
-
-
-### 🔍 Where you stopped vs. What I added:
-* **You stopped at:** `pip install pandas...`
-* **I added:**
-    1.  The closing ``` marks for the code block.
-    2.  **"Execution"** section (How to launch the notebook).
-    3.  **"Project Structure"** section.
-    4.  **"Key Insights"** section.
-    5.  **"License"** section.
