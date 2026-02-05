@@ -33,29 +33,48 @@ Make sure you have the required Python packages installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly jupyter scikit-learn
-2. Execution
+
+```
+
+### 2. Execution
+
 To run the analysis locally, navigate to the project folder and launch Jupyter:
 
-Bash
-
+```bash
 jupyter notebook
-Then, open the .ipynb file to view the analysis and interactive charts.
 
-📂 Project Structure
-Plaintext
+```
 
+Then, open the `.ipynb` file to view the analysis and interactive charts.
+
+---
+
+## 📂 Project Structure
+
+```text
 COVID-19-Data-Tracker/
 │
 ├── data/               # Raw and processed datasets (CSV files)
 ├── notebook.ipynb      # Main analysis notebook
 ├── README.md           # Project documentation
 └── requirements.txt    # List of dependencies
-💡 Key Insights (Preview)
-Vaccination vs. Mortality: Strong correlation observed between higher vaccination rates and lower mortality in subsequent waves.
 
-Economic Impact: Countries with higher GDP per capita showed faster initial vaccine rollout but varying degrees of infection control.
+```
 
-Seasonality: Clear seasonal spikes identified in specific hemispheres.
+---
 
-📄 License
+## 💡 Key Insights (Preview)
+
+* **Vaccination vs. Mortality:** Strong correlation observed between higher vaccination rates and lower mortality in subsequent waves.
+* **Economic Impact:** Countries with higher GDP per capita showed faster initial vaccine rollout but varying degrees of infection control.
+* **Seasonality:** Clear seasonal spikes identified in specific hemispheres.
+
+---
+
+## 📄 License
+
 This project is open-source and available for educational purposes.
+
+```
+
+```
